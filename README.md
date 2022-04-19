@@ -30,7 +30,7 @@ Good workspace implies Good productivity.
 - [ ] instagram
 - [ ] zoom
 
-#### Self throught Projects
+#### Self thought Projects
 -------
 - [ ] Todo App
 - [ ] Resume Builder
