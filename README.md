@@ -7,6 +7,7 @@ Good workspace implies Good productivity.
 - [ ] Restaurant website
 - [x] Image Gallery Website
 - [ ] Blog website
+- [x] dashboard app
 
 ### Vanilla JS 
 -----
