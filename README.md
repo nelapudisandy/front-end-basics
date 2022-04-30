@@ -5,7 +5,7 @@ Good workspace implies Good productivity.
 ### HTML5 & CSS3
 ---------
 - [ ] Restaurant website
-- [ ] Image Gallery Website
+- [x] Image Gallery Website
 - [ ] Blog website
 
 ### Vanilla JS 
