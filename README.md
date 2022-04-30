@@ -33,7 +33,7 @@ Good workspace implies Good productivity.
 #### Self thought Projects
 -------
 - [ ] Todo App
-- [ ] Resume Builder
+- [x] Resume Builder
 - [ ] blog website
 - [ ] chat system
 - [ ] travel log app
